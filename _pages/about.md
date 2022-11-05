@@ -18,7 +18,7 @@ Broadly my resesarch interests include dimensionality reduction,
 Education
 -----------
 * Ph.D. in Statistics, [University of Washington, Seattle](http://www.washington.edu/), Oct. 2020 -- Present
-* B.S. in Applied Mathematics, Engineering, and Physics, [University of Wisconsin, Madison]((https://www.wisc.edu/)), Sep. 2016 -- Jun. 2020
+* B.S. in Applied Mathematics, Engineering, and Physics, [University of Wisconsin, Madison](https://www.wisc.edu/), Sep. 2016 -- Jun. 2020
 
 
 
