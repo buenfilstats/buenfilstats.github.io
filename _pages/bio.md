@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Biographical Sketch"
+title: "Bio"
 permalink: /bio/
 author_profile: true
 ---
@@ -9,14 +9,13 @@ author_profile: true
 
 Education
 -----------
-* Ph.D. in Statistics, [University of Washington, Seattle](http://www.washington.edu/), Sep.2022 -- Present
-* M.S. in Statistics, [University of Washington, Seattle](http://www.washington.edu/), Sep.2018 -- Mar.2020
-* B.S. in Mathematics and Applied Mathematics, [Sun Yat-Sen University](http://www.sysu.edu.cn/2012/en/index.htm), Aug.2014 -- Jun.2018
-* Exchange Student in Mathematics and Statistics, [University of California, Berkeley](http://www.berkeley.edu/), Fall 2016
-* Honor Student in Applied Mathematics Group, [Yat-Sen Honor College](http://yss.sysu.edu.cn/EnVersion/Index.aspx), Sun Yat-Sen University, Sep.2015 -- Jun.2018
+* Ph.D. in Statistics, [University of Washington, Seattle](http://www.washington.edu/), Oct. 2020 -- Present
+* B.S. in Applied Mathematics, Engineering, and Physics, [University of Wisconsin, Madison](https://www.wisc.edu/), Sep. 2016 -- Jun. 2020
+
 
 Research Experience
 -----------
+
 * Apr 2019 - Present: Research Student at Department of Statistics, University of Washington, Seattle
   * Research Focus: Nonparametric Density Estimation (with manifold constraints) and Mode Clustering
   * Advisor: Prof. [Yen-Chi Chen](http://faculty.washington.edu/yenchic/)
@@ -33,44 +32,21 @@ Teaching Experience
       {% include archive-single-cv.html %}
    {% endfor %}</ul>
    
-Work Experience
------------
-* May 2018 - Aug 2018: Statistical Consulting Intern in Cyber Laboratory
-  * Risk Assurance Department, PricewaterhouseCoopers Business Consulting (Shanghai) Co Limited, Guangzhou Branch
-
-Scholarships
------------
-* Best Undergraduate Thesis Award, <!--**Prize: 500 RMB**--> 2018.6
-* Kwang-Hua Education Scholarship, <!--**Prize: 3000 RMB**--> 2017.12
-  * _The only awarded student among roughly 1000 students in our department_
-  * _Awarded by the Kwang-Hua Education Foundation_
-* Shenzhen Financial Institute (SFI) Scholarship (Academic), <!--**Prize: 10000 RMB**--> 2017.5
-  * _One of the only two students among more than 300 junior (Year 3) students in our department_
-  * _Awarded by The Chinese University of Hong Kong, Shenzhen_
-* AEON Donation Scholarship for Excellent Students, <!--**Prize: 5000 RMB**--> 2016.12
-  * _The only awarded student among roughly 1000 students in our department_
-* SYSU Outstanding Student Scholarship (First Prize), <!--**Prize: 2000 RMB + 4000 RMB**--> 2016.9 & 2017.9
-* SYSU Outstanding Student Scholarship (Second Prize), <!--**Prize: 1500 RMB**--> 2015.9
 
 
-Awards
------------
-* Mathematical Contest In Modeling, _Honorable Mention_, 2017
-* Interdisciplinary Contest In Modeling, _Meritorious Winner_, 2016
-* National Undergraduate Mathematics Competition of China, _Second Prize of Math Category_, 2015
-* SYSU Freshman Soccer Cup, _Second Place_, 2015
-  * _I played as the Captain and led our team to the final_ (I no longer play any offical soccer match starting from the beginning of 2020; see my <A href="https://zhangyk8.github.io/portfolio/portfolio-3/" style="color: #52adc8; text-decoration=underline">retirement letter</A>. However, I am still willing to take part in some noncompetitive soccer games in my spare time.)
+
 
 Skills
 -----------
-* LaTeX
-* Linux (Ubuntu)
-* SQL
-* Computer Programming
+* Programming Languages
   * Python
   * R
   * Matlab
-  * Mathematica
+  * Java
+  * Julia
+  * LaTeX
+* Linux (Ubuntu)
+
 * Language
   * Chinese Mandarin (Native)
   * Cantonese (Native)
