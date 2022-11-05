@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yikun's Website"
+title: "James' Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,19 +9,16 @@ redirect_from:
 ---
 
 
-I am a Ph.D. student in the Department of Statistics at the University of Washington (UW), Seattle, where I am fortunate to be advised by [Prof. Yen-Chi Chen](http://faculty.washington.edu/yenchic/). During 2019-2020, I served as the Master Student Representative for [UW STAT](https://stat.uw.edu/). Before joining UW, I received my Bachelor of Science degree in Mathematics and Applied Mathematics with the highest University Distinction at Sun Yat-Sen University (SYSU). During my undergraduate, I was also an honor student in the Yat-Sen Honor College, an elite liberal undergraduate institution of SYSU. 
+Hi, I am a PhD student in the Department of Statistics at the University of Washington, Seattle, where I've been fortunate to work with Marina Meila and Eardi Lila. I received my Bachelor of Science degree in Applied Mathematics, Engineering, and Physics at the University of Wisconsin, Madison. 
 
 Research Interests
 -----------
-My current theoretical research interests are on kernel smoothing, nonparametric statistics, and optimization on nonlinear manifolds. On the applied side, I work on detecting and understanding cosmic filaments in a statistically motivated way.
+Broadly my resesarch interests include dimensionality reduction, 
 
 Education
 -----------
-* Ph.D. in Statistics, [University of Washington, Seattle](http://www.washington.edu/), Sep.2022 -- Present
-* M.S. in Statistics, [University of Washington, Seattle](http://www.washington.edu/), Sep.2018 -- Mar.2020
-* B.S. in Mathematics and Applied Mathematics, [Sun Yat-Sen University](http://www.sysu.edu.cn/), Aug.2014 -- Jun.2018
-* Exchange Student in Mathematics and Statistics, [University of California, Berkeley](http://www.berkeley.edu/), Fall 2016
-* Honor Student in Applied Mathematics Group, [Yat-Sen Honor College](http://yss.sysu.edu.cn/EnVersion/Index.aspx), Sun Yat-Sen University, Sep.2015 -- Jun.2018
+* Ph.D. in Statistics, [University of Washington, Seattle](http://www.washington.edu/), Oct. 2020 -- Present
+* B.S. in Applied Mathematics, Engineering, and Physics, [University of Wisconsin, Madison]((https://www.wisc.edu/)), Sep. 2016 -- Jun. 2020
 
 
 
