@@ -16,15 +16,18 @@ Education
 Research Experience
 -----------
 
-* Apr 2019 - Present: Research Student at Department of Statistics, University of Washington, Seattle
-  * Research Focus: Nonparametric Density Estimation (with manifold constraints) and Mode Clustering
-  * Advisor: Prof. [Yen-Chi Chen](http://faculty.washington.edu/yenchic/)
-* Jun. 2021 - Jul. 2022: Visiting Research Student at Shanghai Astronomical Observatory
-  * Research Focus: Cosmic Web Detection and Analysis Under the Spherical and Conic Geometries
-  * Host: Prof. [Rafael S. de Souza](https://www.rafaelsdesouza.com/)
-* Summer 2017: Summer PhD Research Experience Program at Department of Computer Science, Hong Kong Baptist University
-  * Research Focus: Bayesian Network Structure Learning
-  * Supervisor: Prof. Jiming Liu
+
+* Finite element method simulation of PDEs via flow problem via Polynomialization
+  * September 2017 - June 2018
+  * Supervisor: [Benjamin Peherstorfer](https://cims.nyu.edu/~pehersto/index.html)
+* Calculation of Impedance of Josephson Junction Transmission Line
+  * May 2017 - Aug. 2017
+  * Research Assistant in Mcdermott Physics Lab UW-Madison
+  * Supervisor: [Robert McDermott](https://www.physics.wisc.edu/directory/mcdermott-robert-f/)
+* Simulation and Benchmarking of Optimization Algorithms
+  * February 2017 - May 2017: 
+  * Research Assistant in Mcdermott Physics Lab UW-Madison 
+  * Supervisor: [Ivan Pechenezhskiy](https://thecollege.syr.edu/people/faculty/ivan-pechenezhskiy/)
 
 Teaching Experience
 -----------
@@ -47,10 +50,10 @@ Skills
   * LaTeX
 * Linux (Ubuntu)
 
-* Language
-  * Chinese Mandarin (Native)
-  * Cantonese (Native)
-  * English (Fluent)
+* Languages
+  * English (Native)
+  * Spanish (Advanced)
+  * French (Basic)
 
 <!--
 Publications
@@ -59,13 +62,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
-<!--
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  -->
+
   
 
   
