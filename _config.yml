@@ -3,7 +3,7 @@
 locale                   : "en-US"
 title                    : "James Buenfil"
 title_separator          : "-"
-name                     : &name "Yikun Zhang"
+name                     : &name "James Buenfil"
 description              : &description "personal description"
 url                      : https://buenfilstats.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
