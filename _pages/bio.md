@@ -16,18 +16,26 @@ Education
 Research Experience
 -----------
 
-
+* Identifying Boundary of Point Cloud Data Sampled from Manifolds with Boundary
+  * Oct 2021 - Present
+  * Supervisor: Marina Meila
+* Developing Novel Molecular Dynamics Enhanced Sampling Method: "Tangent Space Least Adaptive Clustering"
+  * May 2021 - June 2021
+  * Supervisors: Marina Meila and Sam Koelle
+  * [Link to workshop paper.](https://openreview.net/forum?id=00thAjcutwh)
+* Applying Song and Raskutti’s PUlasso Algorithm to Large Amino-acid Sequence Data
+  * May 2019 - January 2020
+  * Supervisor: [Garvesh Raskutti](https://pages.cs.wisc.edu/~raskutti/)
 * Finite element method simulation of PDEs via flow problem via Polynomialization
   * September 2017 - June 2018
   * Supervisor: [Benjamin Peherstorfer](https://cims.nyu.edu/~pehersto/index.html)
 * Calculation of Impedance of Josephson Junction Transmission Line
   * May 2017 - Aug. 2017
-  * Research Assistant in Mcdermott Physics Lab UW-Madison
   * Supervisor: [Robert McDermott](https://www.physics.wisc.edu/directory/mcdermott-robert-f/)
 * Simulation and Benchmarking of Optimization Algorithms
   * February 2017 - May 2017: 
-  * Research Assistant in Mcdermott Physics Lab UW-Madison 
   * Supervisor: [Ivan Pechenezhskiy](https://thecollege.syr.edu/people/faculty/ivan-pechenezhskiy/)
+
 
 Teaching Experience
 -----------
@@ -35,9 +43,10 @@ Teaching Experience
       {% include archive-single-cv.html %}
    {% endfor %}</ul>
    
-
-
-
+   
+Miscellaneous
+-----------
+Co-organizer of Geometric Data Analysis Reading Group. [Link here.](https://uwgeometry.github.io/index)
 
 Skills
 -----------
