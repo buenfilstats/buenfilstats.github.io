@@ -1,13 +1,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yikun Zhang"
+title                    : "James Buenfil"
 title_separator          : "-"
 name                     : &name "Yikun Zhang"
 description              : &description "personal description"
-url                      : https://zhangyk8.github.io 
+url                      : https://buenfilstats.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhangyk8/zhangyk8.github.io"
+repository               : "buenfilstats.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -72,13 +72,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yikun Zhang (张奕堃)"
+  name             : "James Buenfil"
   avatar           : "profile.jpg"
   bio              : "PhD Student in Statistics"
   location         : "Seattle, United States"
   employer         :
-  googlescholar    : https://scholar.google.com/citations?user=Qscws0cAAAAJ&hl=en
-  email            : yikunzhang@foxmail.com
+  googlescholar    : 
+  email            : buenfilstats@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -86,13 +86,13 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "zhangyk8"
+  github           : "buenfilstats"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : https://orcid.org/0000-0003-3905-6346
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
