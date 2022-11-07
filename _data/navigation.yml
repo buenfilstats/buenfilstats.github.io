@@ -2,12 +2,13 @@
 main:
   - title: "Bio"
     url: /bio/
-    
+  - title: "Projects"
+    url: /projects/
   #- title: "Honors"
     #url: /honors/
 
-  - title: "Publications"
-    url: /publications/   
+  #- title: "Publications"
+    #url: /publications/   
 
   #- title: "Teaching"
     #url: /teaching/    
