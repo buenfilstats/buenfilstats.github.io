@@ -46,11 +46,6 @@ Teaching Experience
    {% endfor %}</ul>
 -->
    
-Miscellaneous
------------
-Co-organizer of Geometric Data Analysis Reading Group. [Link here.](https://uwgeometry.github.io/index)
-
-Thanks to [Yikun Zhang](https://zhangyk8.github.io/) for the website template.
 
 Skills
 -----------
@@ -76,6 +71,10 @@ Publications
   {% endfor %}</ul>
 -->
 
-  
+Miscellaneous
+-----------
+Co-organizer of Geometric Data Analysis Reading Group. [Link here.](https://uwgeometry.github.io/index)
+
+Thanks to [Yikun Zhang](https://zhangyk8.github.io/) for the website template.
 
   
