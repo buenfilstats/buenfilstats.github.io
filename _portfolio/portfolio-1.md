@@ -3,7 +3,7 @@ layout: splash
 title: "Molecular Dynamics Project"
 excerpt: "Check out this project!
 # (date: 11-7-2022) 
-collection: projects
+collection: portfolio
 permalink: /projects/projects-1
 ---
 
