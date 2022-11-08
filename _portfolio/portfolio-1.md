@@ -4,12 +4,12 @@ title: "Molecular Dynamics Project"
 excerpt: "Check out this project!
 # (date: 11-7-2022) 
 collection: portfolio
-permalink: /projects/projects-1
+permalink: /portfolio/projects-1
 ---
 
 
 
-[A short introductory presentation](project1_files/Presentation_for_Reading_Group.pptx)
+[A short introductory presentation](project1_files/Presentation_for_Reading_Group.pdf)
 
 
 <!-- href ="project1_files/virtual_poster.pdf"> Virtual poster presented at ICML 2021 Workshop on Unsupervised Reinforcement Learning </a>
