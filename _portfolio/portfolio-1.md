@@ -4,7 +4,7 @@ title: "Molecular Dynamics Project"
 excerpt: "Check out this project!
 # (date: 11-7-2022) 
 collection: portfolio
-permalink: /portfolio/projects-1
+
 ---
 
 
