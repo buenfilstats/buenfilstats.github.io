@@ -16,8 +16,8 @@ main:
   #- title: "Talks"
     #url: /talks/ 
     
-  - title: "Miscellaneous"
-    url: /miscellaneous/
+  #- title: "Miscellaneous"
+    #url: /miscellaneous/
     
   #- title: "Guide"
     #url: /markdown/
