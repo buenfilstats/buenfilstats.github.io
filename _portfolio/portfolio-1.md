@@ -9,7 +9,7 @@ permalink: /projects/projects-1
 
 
 
-[A short introductory presentation](buenfilstats.github.io/portfolio/project1_files/Presentation_for_Reading_Group.pptx)
+[A short introductory presentation](project1_files/Presentation_for_Reading_Group.pptx)
 
 
 <!-- href ="project1_files/virtual_poster.pdf"> Virtual poster presented at ICML 2021 Workshop on Unsupervised Reinforcement Learning </a>
