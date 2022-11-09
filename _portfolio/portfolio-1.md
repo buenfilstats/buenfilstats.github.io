@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Molecular Dynamics Project"
-excerpt: "Check out this project!"
+excerpt: "keywords: dynamical systems, clustering, unsupervised learning, reinforcement learning, molecular dynamics"
 # (date: 11-7-2022) 
 collection: portfolio
 permanent link: /portfolio-1/
@@ -13,4 +13,4 @@ permanent link: /portfolio-1/
 
 [Virtual Poster](virtual_poster.png)
 
-[Paper](https://openreview.net/group?id=ICML.cc/2021/Workshop/URL)
+[Paper](https://openreview.net/forum?id=00thAjcutwh)
