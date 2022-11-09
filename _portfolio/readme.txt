@@ -1,1 +1,1 @@
-this folder is where you can put files that will appear in the projects tab. You should put links to files in the _projects folder, since those are the permalinks I'm using for these pages.
+This is the folder for the projects page. To add a project, create a project-i.md or .html file (where i is a number). To link to files that you upload, upload the files into a corresponding project-i folder (which you also create).
