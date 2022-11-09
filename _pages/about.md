@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, I am a PhD student in the Department of Statistics at the University of Washington, Seattle, where I've been fortunate to work with [Marina Meila](https://sites.stat.washington.edu/mmp/) and [Eardi Lila](http://faculty.washington.edu/elila/). I received my Bachelor of Science degree in Applied Mathematics, Engineering, and Physics at the University of Wisconsin, Madison. 
+Hi, I'm a PhD student in the Department of Statistics at the University of Washington, Seattle, where I've been fortunate to work with [Marina Meila](https://sites.stat.washington.edu/mmp/) and [Eardi Lila](http://faculty.washington.edu/elila/). I received my Bachelor of Science degree in Applied Mathematics, Engineering, and Physics at the University of Wisconsin, Madison. 
 
 Research Interests
 -----------
