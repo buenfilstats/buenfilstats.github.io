@@ -9,7 +9,7 @@ permanent link: /portfolio-1/
 
 
 
-[A short introductory presentation](project1_files/Presentation_for_Reading_Group.pdf)
+[A short introductory presentation](Presentation_for_Reading_Group.pdf)
 
 
 [Paper](https://openreview.net/group?id=ICML.cc/2021/Workshop/URL)
