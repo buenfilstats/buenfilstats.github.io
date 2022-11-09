@@ -15,17 +15,17 @@ Education
 
 Research Experience
 -----------
-* Riemannian Functional PCA in conjunction with Sparse CCA to study the relationship between Brain Curve data and demographic data
+* Riemannian Functional PCA in conjunction with Sparse CCA to study the relationship between brain curve data and demographic data
   * May 2022 - Present
   * Supervisor: [Eardi Lila](http://faculty.washington.edu/elila/)
-* Identifying Boundary of Point Cloud Data Sampled from Manifolds with Boundary
+* Identifying boundary of point cloud data sampled from manifolds for outlier detection and exploration
   * October 2021 - Present
   * Supervisor: [Marina Meila](https://sites.stat.washington.edu/mmp/)
-* Novel Molecular Dynamics Enhanced Sampling Method: "Tangent Space Least Adaptive Clustering"
+* Novel molecular dynamics enhanced sampling method: "Tangent Space Least Adaptive Clustering"
   * May 2021 - June 2021
   * Supervisors: [Sam Koelle](https://sjkoelle.github.io/) and [Marina Meila](https://sites.stat.washington.edu/mmp/)
   * [Link to workshop paper.](https://openreview.net/forum?id=00thAjcutwh)
-* Analysis of Large Amino-acid Sequence Data with Song and Raskutti’s PUlasso Algorithm
+* Analysis of large amino-acid sequence data with Song and Raskutti’s PUlasso algorithm
   * May 2019 - January 2020
   * Supervisor: [Garvesh Raskutti](https://pages.cs.wisc.edu/~raskutti/)
 * Finite element method simulation of PDEs via polynomialization and quadraticization
@@ -73,7 +73,7 @@ Publications
 
 Miscellaneous
 -----------
-Co-organizer of Geometric Data Analysis Reading Group. [Link here.](https://uwgeometry.github.io/index)
+Co-organizer of Geometric Data Analysis Reading Group. [Link here](https://uwgeometry.github.io/index)
 
 Thanks to [Yikun Zhang](https://zhangyk8.github.io/) for the website template.
 
