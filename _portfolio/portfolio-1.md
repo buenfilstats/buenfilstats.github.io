@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Molecular Dynamics Project"
-excerpt: "keywords: dynamical systems, clustering, unsupervised learning, reinforcement learning, molecular dynamics"
+excerpt: "Keywords: dynamical systems, clustering, unsupervised learning, reinforcement learning, molecular dynamics"
 # (date: 11-7-2022) 
 collection: portfolio
 permanent link: /portfolio-1/
@@ -14,3 +14,5 @@ permanent link: /portfolio-1/
 [Virtual Poster](virtual_poster.png)
 
 [Paper](https://openreview.net/forum?id=00thAjcutwh)
+
+[link to code](https://github.com/buenfilstats/Molecular-Dynamics-Project)
