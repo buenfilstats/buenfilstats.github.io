@@ -13,7 +13,10 @@ Hi, I am a PhD student in the Department of Statistics at the University of Wash
 
 Research Interests
 -----------
-Broadly speaking my research interest is in [feature extraction](https://en.wikipedia.org/wiki/Feature_extraction) when we have additional geometric information we can exploit. High dimensional data often lies on a low dimensional [manifold](https://en.wikipedia.org/wiki/Manifold); knowing this makes working with data much easier. If we explicitly know the manifold (for example, the manifold of positive semidefinite matrices, which covariance matrix data lies on) then we immediately know all the tangent spaces at points, the shortest paths and distances between points, and a way to do calculus on functions defined on it. If we don't know the manifold then we have to infer 
+Broadly speaking my research interest is in [feature extraction](https://en.wikipedia.org/wiki/Feature_extraction) when we have additional geometric information we can exploit. 
+
+Geometry: High dimensional data often lies on a low dimensional [manifold](https://en.wikipedia.org/wiki/Manifold); knowing this makes working with data much easier. If we explicitly know the manifold (for example, the manifold of positive semidefinite matrices, which covariance matrix data lies on) then we immediately know all the tangent spaces at points, the shortest paths and distances between points, and a way to do calculus on functions defined on it. If we don't know the manifold then we have to infer these things which is much harder, but the knowledge that the structure of the data is low-dimensional is still helpful. I'm interested in both settings.
+
 
 Education
 -----------
