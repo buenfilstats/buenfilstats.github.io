@@ -7,4 +7,4 @@ author_profile: false
 
 {% include base_path %}
 
-<a href="https://github.com/zhangyk8/HMM">CV/Resume</a>
+[CV/Resume](projects)
