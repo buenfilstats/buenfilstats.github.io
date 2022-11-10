@@ -7,4 +7,4 @@ author_profile: false
 
 {% include base_path %}
 
-[CV/Resume](projects)
+[CV/Resume](James_Buenfil.pdf)
