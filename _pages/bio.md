@@ -31,6 +31,7 @@ Research Experience
 * Finite element method simulation of PDEs via polynomialization and quadraticization
   * September 2017 - June 2018
   * Supervisor: [Benjamin Peherstorfer](https://cims.nyu.edu/~pehersto/index.html)
+  * [Technical Report](polynomialization-slash-quadratic_Final-paper.pdf)
 * Calculation of impedance of Josephson Junction transmission line
   * May 2017 - Aug. 2017
   * Supervisor: [Robert McDermott](https://www.physics.wisc.edu/directory/mcdermott-robert-f/)
