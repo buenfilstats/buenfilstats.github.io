@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-Hi, I'm a PhD student in the Department of Statistics at the University of Washington, Seattle, where I've been fortunate to work with [Eardi Lila](http://faculty.washington.edu/elila/) and [Marina Meila](https://sites.stat.washington.edu/mmp/). I received my Bachelor of Science degree in Applied Mathematics, Engineering, and Physics at the University of Wisconsin, Madison.
+Hi, I'm a PhD student in the Department of Statistics at the University of Washington, Seattle, advised by [Eardi Lila](http://faculty.washington.edu/elila/). I received my Bachelor of Science degree in Applied Mathematics, Engineering, and Physics at the University of Wisconsin, Madison.
 
 Research Interests
 -----------
 Broadly my research interest is in [feature learning](https://en.wikipedia.org/wiki/Feature_learning) when we have additional geometric information we can exploit. 
 
-High dimensional data often lies on a low dimensional [manifold](https://en.wikipedia.org/wiki/Manifold); knowing this makes working with data much easier. If we explicitly know the manifold (for example, the manifold of positive semidefinite matrices, which covariance matrix data lies on) then we immediately know all the tangent spaces at points, the shortest paths and distances between points, and a way to do calculus on functions defined on it. If we don't know the manifold then we have to infer these things which is much harder, but the knowledge that the structure of the data is low-dimensional is still helpful. I'm interested in both settings.
+High dimensional data often lies on a low dimensional [manifold](https://en.wikipedia.org/wiki/Manifold); knowing this makes working with data much easier. If we explicitly know the manifold (for example, the manifold of positive definite matrices, which covariance matrix data lies on) then we immediately know all the tangent spaces at points, the shortest paths and distances between points, and a way to do calculus on functions defined on it. If we don't know the manifold then we have to infer these things which is much harder, but the knowledge that the structure of the data is low-dimensional is still helpful. I'm interested in both settings.
 
 
 Education
