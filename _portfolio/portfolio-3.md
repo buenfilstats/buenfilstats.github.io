@@ -7,6 +7,6 @@ collection: portfolio
 permanent link: /portfolio-3/
 ---
 
-[Presentation](General_exam_presentation.pdf)
+[Presentation](General_Exam_Presentation-1.pdf)
 
 [Arxiv link to paper](https://arxiv.org/abs/2404.11781)
