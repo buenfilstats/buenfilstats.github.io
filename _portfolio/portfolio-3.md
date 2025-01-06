@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Asymmetric canonical correlation analysis of Riemannian and high-dimensional data"
-excerpt: "Keywords: Integrative data analysis, Feature learning, High-dimensional statistics, Functional data analysis, Geometric data analysis .<br/><img src='/images/thumbnail.png'>"
+excerpt: "Keywords: Integrative data analysis, Feature learning, High-dimensional statistics, Functional data analysis, Geometric data analysis .<br/><img src='/images/asymmetric_CCA_thumbnail.pdf'>"
 # (date: 1-5-2025) 
 collection: portfolio
 permanent link: /portfolio-3/
