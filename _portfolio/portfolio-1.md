@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Molecular Dynamics"
-excerpt: "Keywords: dynamical systems, clustering, unsupervised learning, reinforcement learning, molecular dynamics.<br/><img src='/images/thumbnail.png'>"
+excerpt: "Keywords: dynamical systems, clustering, unsupervised learning, reinforcement learning, molecular dynamics.<br/><img src='/images/MD_thumbnail.png'>"
 # (date: 11-7-2022) 
 collection: portfolio
 permanent link: /portfolio-1/
