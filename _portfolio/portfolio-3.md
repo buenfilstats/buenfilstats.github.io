@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Hybrid canonical correlation analysis of Riemannian and high-dimensional data"
+title: "Asymmetric canonical correlation analysis of Riemannian and high-dimensional data"
 excerpt: "Keywords: Integrative data analysis, Feature learning, High-dimensional statistics, Functional data analysis, Geometric data analysis .<br/><img src='/images/thumbnail.png'>"
 # (date: 1-5-2025) 
 collection: portfolio
