@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Research Preliminary Exam for University of Washington Statistics Program"
-excerpt: "Keywords: Bayesian Inference, Spatial Statistics, Point Processes, Matern Processes.<br/><img src='/images/Lplot.png'>"
+excerpt: "Keywords: Bayesian inference, Spatial statistics, Point processes, Matern processes.<br/><img src='/images/Lplot.png'>"
 # (date: 11-9-2023) 
 collection: portfolio
 permanent link: /portfolio-2/
