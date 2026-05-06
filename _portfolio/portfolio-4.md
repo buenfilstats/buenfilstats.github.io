@@ -7,8 +7,10 @@ collection: portfolio
 permanent link: /portfolio-4/
 ---
 
-[See the second half of my final exam slides](Final_Exam_Presentation.pdf)
-
 [Open review link to paper](https://openreview.net/forum?id=RDEIyjDBOC)
+
+[Poster presented at AISTATS 2026](AISTATS2026_Poster.pdf)
+
+[See the second half of my final exam slides](Final_Exam_Presentation.pdf)
 
 [Code](https://github.com/buenfilstats/PLiCCA)
